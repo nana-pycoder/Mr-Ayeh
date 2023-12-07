@@ -1,9 +1,17 @@
-### Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**Mr-Ayeh/Mr-Ayeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+- [Project 1](link-to-project-1): Brief description.
+- [Project 2](link-to-project-2): Brief description.
 
-Here are some ideas to get you started:
+## Skills
+
+
+## Contact
+Feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).
+[LinkedIn](https://www.linkedin.com/in/yourusername) | [Twitter](https://twitter.com/yourusername) | [Personal Website](https://www.yourwebsite.com)
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
