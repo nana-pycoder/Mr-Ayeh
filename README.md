@@ -7,7 +7,9 @@
 - [Project 2](link-to-project-2): Brief description.
 
 ## Skills
-
++ Data cleaning using Excel
++ Data Visualization using tableau
++ Data visualization using Power BI
 
 ## Contact
 Feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).
