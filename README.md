@@ -1,7 +1,8 @@
 # Welcome to My GitHub Profile!
 
 ## Projects
-- [Project 1]([Sales Data Analysis](https://github.com/Mr-Ayeh/Sales_Data_Analysis)):In this project, I dive into a large sales dataset to extract valuable insights such as exploring sales trends over time, identifying the best-selling products, calculating revenue metrics such as total sales and profit margins, and also created a visualizations to present my findings.
+- [Project 1]([Sales Data Analysis](https://github.com/Mr-Ayeh/Sales_Data_Analysis)):
+- In this project, I dive into a large sales dataset to extract valuable insights such as exploring sales trends over time, identifying the best-selling products, calculating revenue metrics such as total sales and profit margins, and also created a visualizations to present my findings.
   
 - [Project 2](link-to-project-2): Brief description.
 
